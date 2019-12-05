@@ -1,0 +1,3 @@
+CREATE DATABASE ambari;
+USE ambari;
+SOURCE Ambari-DDL-MySQL-CREATE.sql;
