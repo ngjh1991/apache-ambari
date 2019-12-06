@@ -1,4 +1,4 @@
-FROM mysql:5.7.28
+FROM mysql:5.7.20
 
 COPY setup-user.sql /
 COPY setup-db.sql /
